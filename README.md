@@ -1,5 +1,5 @@
 # GameExplorer
-Start your expansion of games using *GameExplorer
+Start your expansion of games using *GameExplorer*
 
 You can know the sites to download a game, like for playstation, xbox, PC and switch
 
